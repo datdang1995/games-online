@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "61d5bec9965f84281154b952dc5f3b80",
+    "revision": "fc8ef69abce95fbcafec02d1bbb00b06",
     "url": "/games-online/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/games-online/static/css/2.de424728.chunk.css"
   },
   {
-    "revision": "47d6ba28299bb41fdc0d",
-    "url": "/games-online/static/css/main.9ba037eb.chunk.css"
+    "revision": "6e0412a1e55beb5eef92",
+    "url": "/games-online/static/css/main.0f7a9eb2.chunk.css"
   },
   {
     "revision": "ee4fbc25681bdc0de7d4",
@@ -20,7 +20,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/games-online/static/js/2.c6002895.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "47d6ba28299bb41fdc0d",
+    "revision": "6e0412a1e55beb5eef92",
     "url": "/games-online/static/js/main.4ae44d73.chunk.js"
   },
   {
