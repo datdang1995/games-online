@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/games-online/static/css/main.9ba037eb.chunk.css",
+    "main.js": "/games-online/static/js/main.3f415a47.chunk.js",
+    "main.js.map": "/games-online/static/js/main.3f415a47.chunk.js.map",
+    "runtime-main.js": "/games-online/static/js/runtime-main.9071c0ff.js",
+    "runtime-main.js.map": "/games-online/static/js/runtime-main.9071c0ff.js.map",
+    "static/css/2.de424728.chunk.css": "/games-online/static/css/2.de424728.chunk.css",
+    "static/js/2.1df4b38f.chunk.js": "/games-online/static/js/2.1df4b38f.chunk.js",
+    "static/js/2.1df4b38f.chunk.js.map": "/games-online/static/js/2.1df4b38f.chunk.js.map",
+    "index.html": "/games-online/index.html",
+    "precache-manifest.3660e536b6d342f348c821201368e5b6.js": "/games-online/precache-manifest.3660e536b6d342f348c821201368e5b6.js",
+    "service-worker.js": "/games-online/service-worker.js",
+    "static/css/2.de424728.chunk.css.map": "/games-online/static/css/2.de424728.chunk.css.map",
+    "static/css/main.9ba037eb.chunk.css.map": "/games-online/static/css/main.9ba037eb.chunk.css.map",
+    "static/js/2.1df4b38f.chunk.js.LICENSE.txt": "/games-online/static/js/2.1df4b38f.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/games-online/static/media/404-bg.64a069f7.jpg",
+    "static/media/cs-go-icon.png": "/games-online/static/media/cs-go-icon.0f219aba.png",
+    "static/media/cs-go.jpg": "/games-online/static/media/cs-go.2b8fbb44.jpg",
+    "static/media/dota-2-icon.png": "/games-online/static/media/dota-2-icon.580c366d.png",
+    "static/media/dota-2.jpg": "/games-online/static/media/dota-2.2d33d761.jpg",
+    "static/media/hearthstone-icon.png": "/games-online/static/media/hearthstone-icon.77ab3cbb.png",
+    "static/media/hearthstone.jpg": "/games-online/static/media/hearthstone.7f572808.jpg",
+    "static/media/overwatch-icon.png": "/games-online/static/media/overwatch-icon.33ee95c4.png",
+    "static/media/overwatch.png": "/games-online/static/media/overwatch.679e1f18.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9071c0ff.js",
+    "static/css/2.de424728.chunk.css",
+    "static/js/2.1df4b38f.chunk.js",
+    "static/css/main.9ba037eb.chunk.css",
+    "static/js/main.3f415a47.chunk.js"
+  ]
+}
