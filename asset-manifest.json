@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/games-online/static/css/main.0f7a9eb2.chunk.css",
+    "main.css": "/games-online/static/css/main.9ba037eb.chunk.css",
     "main.js": "/games-online/static/js/main.4ae44d73.chunk.js",
     "main.js.map": "/games-online/static/js/main.4ae44d73.chunk.js.map",
     "runtime-main.js": "/games-online/static/js/runtime-main.9071c0ff.js",
@@ -9,10 +9,10 @@
     "static/js/2.c6002895.chunk.js": "/games-online/static/js/2.c6002895.chunk.js",
     "static/js/2.c6002895.chunk.js.map": "/games-online/static/js/2.c6002895.chunk.js.map",
     "index.html": "/games-online/index.html",
-    "precache-manifest.810f0dec6b0185f5d8fe91467097f9dc.js": "/games-online/precache-manifest.810f0dec6b0185f5d8fe91467097f9dc.js",
+    "precache-manifest.6a2814259bc09c6e5b748fb2a2171c78.js": "/games-online/precache-manifest.6a2814259bc09c6e5b748fb2a2171c78.js",
     "service-worker.js": "/games-online/service-worker.js",
     "static/css/2.de424728.chunk.css.map": "/games-online/static/css/2.de424728.chunk.css.map",
-    "static/css/main.0f7a9eb2.chunk.css.map": "/games-online/static/css/main.0f7a9eb2.chunk.css.map",
+    "static/css/main.9ba037eb.chunk.css.map": "/games-online/static/css/main.9ba037eb.chunk.css.map",
     "static/js/2.c6002895.chunk.js.LICENSE.txt": "/games-online/static/js/2.c6002895.chunk.js.LICENSE.txt",
     "static/media/App.css": "/games-online/static/media/404-bg.64a069f7.jpg",
     "static/media/cs-go-icon.png": "/games-online/static/media/cs-go-icon.0f219aba.png",
@@ -28,7 +28,7 @@
     "static/js/runtime-main.9071c0ff.js",
     "static/css/2.de424728.chunk.css",
     "static/js/2.c6002895.chunk.js",
-    "static/css/main.0f7a9eb2.chunk.css",
+    "static/css/main.9ba037eb.chunk.css",
     "static/js/main.4ae44d73.chunk.js"
   ]
 }
