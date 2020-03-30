@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "61d5bec9965f84281154b952dc5f3b80",
+    "revision": "59654edcdea33697a5f838305c7ef79e",
     "url": "/games-online/index.html"
   },
   {
-    "revision": "ee4fbc25681bdc0de7d4",
+    "revision": "025d68dbf5537710015e",
     "url": "/games-online/static/css/2.de424728.chunk.css"
   },
   {
-    "revision": "47d6ba28299bb41fdc0d",
-    "url": "/games-online/static/css/main.9ba037eb.chunk.css"
+    "revision": "6cca88db91e7622d76b6",
+    "url": "/games-online/static/css/main.1bc409a3.chunk.css"
   },
   {
-    "revision": "ee4fbc25681bdc0de7d4",
-    "url": "/games-online/static/js/2.c6002895.chunk.js"
+    "revision": "025d68dbf5537710015e",
+    "url": "/games-online/static/js/2.c41d3b3f.chunk.js"
   },
   {
     "revision": "eff3b4d7e4bb0087ce53139cd90bc880",
-    "url": "/games-online/static/js/2.c6002895.chunk.js.LICENSE.txt"
+    "url": "/games-online/static/js/2.c41d3b3f.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "47d6ba28299bb41fdc0d",
-    "url": "/games-online/static/js/main.4ae44d73.chunk.js"
+    "revision": "6cca88db91e7622d76b6",
+    "url": "/games-online/static/js/main.d41b88f4.chunk.js"
   },
   {
     "revision": "b3c2953b2ff2eb173723",
